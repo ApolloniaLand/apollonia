@@ -1,0 +1,12 @@
+<div class="sidebar-background" style="background-image: url('{{ .Site.Params.Banner | default "/images/math-and-paper.jpg" }}');" alt="{{ .Site.Params.Banner_attr | default ""}}" ></div>
+<div class="sidebar">
+	<img class="profile" src="{{ .Site.Params.Profile | default "/images/lily-anderson.jpg" }}">
+	<div class="nav">
+		<ul>
+		{{ range .Site.Menus.main }}
+			<li><a href="{{ .URL }}">{{ .Name }}</a></li>
+		{{ end }}
+		</ul>
+	</div>
+	<img class="logo" src="{{ .Site.Params.Logo | default "/images/owl.png" }}" alt="{{ .Site.Params.logo_attr | default ""}}">
+</div>

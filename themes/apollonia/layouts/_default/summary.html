@@ -1,0 +1,10 @@
+<div class="post">
+	<h3><a class="title" href="{{ .Permalink }}">{{ .Title }}</a></h3>
+	{{ if .Params.Summary }}
+		{{ .Params.Summary | markdownify }}
+	{{ else }}
+		{{ .Summary | markdownify }}
+	{{ end }}
+	<br>
+	<a class="continue" href="{{ .Permalink }}">Continue Reading</a>
+</div>

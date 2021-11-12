@@ -1,0 +1,93 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.sidebar-background {
+	height: 100%;
+	width: 20%;
+	position: fixed;
+	background-size: cover;
+	top: 0;
+}
+
+.sidebar {
+	height: 100px;
+	width: 100%;
+	top: 0;
+	position: sticky;
+	overflow: auto;
+	top: 0;
+}
+
+div.nav {
+	width: 40%;
+	min-width: max-content;
+	background: white;
+	margin: 0px auto;
+}
+
+.nav ul {
+	list-style-type: none;
+	margin: 0px auto;
+	padding: 10px;
+	width: max-content;
+}
+
+.nav li {
+	padding: 10px;
+}
+
+.nav li a {
+	display: block;
+	color: #404040;
+}
+
+div#content {
+	margin-left: 20%;
+}
+
+.container {
+	margin: 0px auto;
+	width: 80%;
+	max-width: 750px;
+	font-size: 1.2em;
+	line-height: 2em;
+	text-align: justify;
+}
+
+img.profile {
+	width: 40%;
+	border-radius: 50%;
+	margin: 10px auto;
+	display: block;
+}
+
+img.logo {
+	width: 20%;
+	margin: 10px auto;
+	display: block;
+	position: absolute;
+	bottom: 10px;
+	left: 40%;
+}
+
+div.post {
+	border-bottom: 1px solid #eeeeee;
+	border-top: 1px solid #eeeeee;
+	border-collapse: true;
+	font-size: 1em;
+	line-height: 1.5em;
+	color: #505050;
+	padding: 10px;
+}
+
+a.title {
+	text-decoration: none;
+	color: #404040;
+}
+
+a.continue {
+	text-decoration: none;
+	font-size: 0.8em;
+}

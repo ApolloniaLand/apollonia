@@ -1,0 +1,4 @@
+baseURL = 'https://apollonia.land/'
+languageCode = 'en-us'
+title = 'Apollonia'
+theme = 'apollonia'

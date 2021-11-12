@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apollonia</title>
+    <link>https://apollonia.land/</link>
+    <description>Recent content on Apollonia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Nov 2021 13:41:09 -0500</lastBuildDate><atom:link href="https://apollonia.land/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apollonia</title>
+      <link>https://apollonia.land/posts/about-us/</link>
+      <pubDate>Wed, 10 Nov 2021 13:41:09 -0500</pubDate>
+      
+      <guid>https://apollonia.land/posts/about-us/</guid>
+      <description>Apollonia About us We are an anarchist micronation which lays claim to Marie Byrd land in Antartica. We seek to create a homeland for all lgbt+ people, so we may be free from the repressive and/or dangerous places we live. We also have no issue accepting non-lgbt+ people, so long as they are our allies, and accept our principles.
+Our goals We seek to raise funds which will go towards creating a permanent outpost in Marie Byrd land.</description>
+    </item>
+    
+  </channel>
+</rss>
